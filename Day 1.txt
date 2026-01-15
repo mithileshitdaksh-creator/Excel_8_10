@@ -1,0 +1,46 @@
+What is excel ?
+It is spreedsheet application which developed by the MS.
+- it is an application which is collection of sheets 
+- sheets is collection rows and column.
+
+
+A file which is save by the extension of .xlsx is can be called as workbook.
+Workbook ==> collection of sheets.
+
+a single sheet can have 16 thousand of Column
+                        10 lakh + rows
+
+column and rows
+- cells : intersection point of row and column.
+
+Ribbon
+
+
+Rand() : generate random decimal/float number 
+
+
+Reference :
+
+
+----------> List data validation and conditional formatting.<--------------------
+Q1. Make list of name given in the table.
+    base select name in table respected row should be highlight or color.
+
+
+
+
+
+Naming of cell and selection
+- name the cell which have list of rating.==> ratings
+- name the table that you have create as "emp1"
+- name the name column as names
+
+add new row in a table then expand name selection.
+
+Referencing.
+- Relative
+- Aboslute
+
+
+
+
