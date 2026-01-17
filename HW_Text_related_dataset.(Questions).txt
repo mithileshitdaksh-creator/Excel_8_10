@@ -1,0 +1,67 @@
+======================================>>> Section 1 <<=============================================
+
+1. Create a calculated column to convert "FullName" into uppercase.
+
+2. Create a calculated column to convert "Email" into lowercase.
+
+3. Create a calculated column to find the length of "FullName" (including spaces).
+
+4. Create a calculated column to remove extra spaces from "FullName".
+
+5. Create a calculated column to extract the first 3 characters from "OrderID".
+
+6. Create a calculated column to extract the last 3 digits from "OrderID".
+
+7. Create a calculated column to extract the city name in uppercase.
+
+======================================>>> Section 2 <<==============================================
+
+8. Create a calculated column to combine "CustomerID" and cleaned "FullName"
+   (Example format: "C001 - Anita Yadav").
+
+9. Create a calculated column to extract the product category
+   from "ProductCode" (ELC, MOB, TAB).
+
+10. Create a calculated column to mask the last 5 digits of "Phone"
+    (Example: "98765XXXXX").
+
+11. Create a calculated column to replace the word “delayed” with “late”
+    in the "Remarks" column (case-insensitive).
+
+12. Create a calculated column to check whether "Remarks"
+    contains the word “Delivered” (Yes / No).
+
+13. Create a calculated column to extract the order year from "OrderID".
+
+14. Create a calculated column to extract only the numeric part
+    of "OrderID".
+
+======================================>>> Section 3 <<==============================================
+
+15. Create a calculated column to standardize "Email"
+    so all emails are in lowercase and domain is "gmail.com".
+
+16. Create a calculated column to extract the middle name (if present)
+    from "FullName", else return ""NA"".
+
+17. Create a calculated column to remove the word “Delivered”
+    from "Remarks" completely.
+
+18. Create a calculated column to classify orders based on "Remarks":
+
+- "Delivered"
+- "Delayed"
+- "Returned"
+- "Cancelled"
+- "Other"
+
+19. Create a calculated column that formats "OrderDate" as
+    "DD-MM-YYYY" (text format).
+
+20. Create a calculated column to generate a custom Order Label:
+
+
+ORD-2024-001 | Mumbai | Delivered
+
+===================================================================================================
+
