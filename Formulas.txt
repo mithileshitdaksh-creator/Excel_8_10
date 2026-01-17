@@ -1,0 +1,31 @@
+Text Functions :
+- Concatenate
+- Upper
+- Lower
+- len
+- left
+- right
+- mid
+- replace
+- substitute
+- trim
+- search
+- find
+- extract
+- format
+
+Date Functions :
+- Today
+- now
+- date
+- day
+- month
+- year
+- Datediff
+- dateadd
+- Datesytd
+- Datesmtd
+- Datesqtd
+- Sameperiodlastyear
+- Eomonth
+- Edate
