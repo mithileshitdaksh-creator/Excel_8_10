@@ -1,0 +1,51 @@
+
+=========================================>> Section 1 <<===========================================
+
+1. Create a measure to calculate the total sales amount.
+
+2. Create a measure to calculate the total profit.
+
+3. Create a measure to find the minimum unit price.
+
+4. Create a measure to find the maximum unit price.
+
+5. Create a measure to calculate the average sales amount.
+
+6. Create a measure to count the total number of transactions.
+
+7. Create a measure to count distinct customers.
+
+
+=========================================>> Section 2 <<===========================================
+
+8. Create a calculated column to round SalesAmount to the nearest integer.
+
+9. Create a calculated column to return the absolute value of Profit.
+
+10. Create a calculated column to check whether Quantity is Even or Odd.
+
+11. Create a measure to calculate total rounded sales.
+
+12. Create a measure to calculate average profit ignoring negative values.
+
+13. Create a measure to calculate total sales for customers who purchased more than once.
+
+14. Create a measure to calculate total discount given.
+
+
+=========================================>> Section 3 <<===========================================
+
+
+15. Create a measure to calculate the difference between maximum and minimum sales amount.
+
+16. Create a measure to calculate the count of transactions with negative profit.
+
+17. Create a measure to calculate average unit price after rounding.
+
+18. Create a measure to calculate distinct count of products sold.
+
+19. Create a measure to calculate total sales for odd quantities only.
+
+20. Create a measure to calculate total profit ignoring NULL profit values.
+
+=========================================>> The End <<=============================================

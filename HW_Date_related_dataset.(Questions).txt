@@ -1,0 +1,77 @@
+============================================== Section 1 =======================================================
+
+1. Create a calculated column to extract the year from "OrderDate".
+
+2. Create a calculated column to extract the month number from "OrderDate".
+
+3. Create a calculated column to extract the day from "OrderDate".
+
+4. Create a measure that returns today’s date.
+
+5. Create a measure that returns the current date and time.
+
+6. Create a calculated column that shows the last date of the order month.
+
+7. Create a calculated column that adds 3 months to the "OrderDate".
+
+8. Create a calculated column that formats "OrderDate" as
+   "dd-mmm-yyyy".
+
+============================================== Section 2 =======================================================
+
+9. Create a calculated column to calculate the number of days between OrderDate and ShipDate.
+
+10. Create a measure to calculate total sales for the current year.
+
+11. Create a measure to calculate Month-to-Date (MTD) sales.
+
+12. Create a measure to calculate Quarter-to-Date (QTD) sales.
+
+13. Create a measure to calculate Year-to-Date (YTD) sales.
+
+14. Create a measure that shows sales for the previous month.
+
+15. Create a calculated column that checks whether an order was placed in the current month
+    (Yes / No).
+
+16. Create a measure to count orders placed in the current year.
+
+
+============================================== Section 3 =======================================================
+
+17. Create a measure to calculate sales for the same period last year.
+
+18. Create a measure that shows difference between current year sales and last year sales.
+
+19. Create a measure to calculate rolling 3-month sales.
+
+20. Create a measure to calculate rolling 6-month sales.
+
+21. Create a measure that shows YTD sales till last month.
+
+22. Create a measure to compare current month sales vs previous month sales (%).
+
+23. Create a measure that returns blank if no sales in the previous year, otherwise returns the value.
+
+24. Create a measure to find the first order date of each year.
+
+25. Create a measure to find the last order date of each year.
+
+
+============================================== Section 4 =======================================================
+
+
+26. Create a measure that calculates sales excluding the current month.
+
+27. Create a measure that dynamically returns:
+
+- MTD when month is selected
+- YTD when year is selected
+
+28. Create a measure to calculate average daily sales for the selected period.
+
+29. Create a measure to calculate growth rate using SAMEPERIODLASTYEAR.
+
+30. Create a measure that flags months with sales lower than the same month last year.
+
+============================================== The End  ========================================================
